@@ -1,0 +1,5 @@
+{
+  "appId": "nl.metachef.testapp",
+  "appName": "MCTestApp",
+  "webDir": "dist"
+}

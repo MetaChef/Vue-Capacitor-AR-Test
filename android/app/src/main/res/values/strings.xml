@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MCTestApp</string>
+    <string name="title_activity_main">MCTestApp</string>
+    <string name="package_name">nl.metachef.testapp</string>
+    <string name="custom_url_scheme">nl.metachef.testapp</string>
+</resources>
